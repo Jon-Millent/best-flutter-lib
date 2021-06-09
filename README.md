@@ -31,3 +31,8 @@
 ### 位置
 * [flutter-geolocator](https://github.com/Baseflow/flutter-geolocator)  
 `获取gps坐标`
+
+### 视频
+* [chewie](https://pub.dev/packages/chewie)
+`轻量视频播放组件`
+
