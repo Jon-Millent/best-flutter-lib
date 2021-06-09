@@ -13,6 +13,11 @@
   `轮播图`
 * [FlutterToast](https://github.com/PonnamKarthik/FlutterToast)  
   `面包提示`
+* [Animated-Text-Kit](https://github.com/aagarwal1012/Animated-Text-Kit)  
+  `字体动画`
+* [bot_toast](https://pub.dev/packages/bot_toast)  
+  `更灵活的面包提示`
+
 
 
 ### 加密
@@ -33,6 +38,5 @@
 `获取gps坐标`
 
 ### 视频
-* [chewie](https://pub.dev/packages/chewie)
+* [chewie](https://pub.dev/packages/chewie)  
 `轻量视频播放组件`
-
